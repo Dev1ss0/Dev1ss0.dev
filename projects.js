@@ -1,7 +1,7 @@
 const projectsData = [
     {
         title: "AAMC Discord",
-        description: "AngelAuraMC is an organization that develops Amethyst, a launcher that allows you to play Minecraft: Java Edition on your Android and iOS devices.",
+        description: "AngelAuraMC is an organization behind Amethyst, a launcher that allows you to play Minecraft: Java Edition on your Android and iOS devices.",
         involvement: "Administrator and Community Manager.",
         link: "https://discord.angelauramc.dev"
     },
